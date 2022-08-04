@@ -1,7 +1,7 @@
 # Title: Google Map API
 
 ## What is this?
-This is another Travel type API project that uses Google Map.
+This is a Travel API project that uses Google Map. I made this project in order to understand how API works. 
 
 ## What is an API & Why is it important?
 API stands for Application Programming Interface, a software-to-software interface that enables two applications to exchange data among each other. APIs can be a service for developers. Every time developers write a new program, they don’t have to start from scratch to build a core application that tries to do everything. Instead, they can contract out certain responsibilities by using already created pieces that do the job better.
