@@ -3,6 +3,9 @@
 ## What is this?
 This is another Travel type API project that uses Google Map.
 
+## What is an API & Why is it important?
+API stands for Application Programming Interface, a software-to-software interface that enables two applications to exchange data among each other. APIs can be a service for developers. Every time developers write a new program, they don’t have to start from scratch to build a core application that tries to do everything. Instead, they can contract out certain responsibilities by using already created pieces that do the job better.
+
 ## Coding Language: 
 I built a blockchain using JavaScript and I implemented "Proof-of-Work" in this project.
 
